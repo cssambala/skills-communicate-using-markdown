@@ -18,4 +18,9 @@ here is my html tags
 <p>This is paragraph tag inside the code block</p>
 ```
 ### Above code blocks has been completed. 
-
+# Below we will learn to add Task Lists
+- [ ] This is a task list.
+- [ ] Empty Task List is with emprty double breakets.
+- [ ] If we want to mark it as done then we have to enter x inside the breakets.
+- [X] This is the sample of completed task.
+- [ ] This task is still pending.
